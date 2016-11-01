@@ -8,9 +8,9 @@ categories:
 img: portfolio_03.jpg
 thumb: thumb02.jpg
 carousel:
-- car_g1.jpg
-- car_g2.jpg
-- car_g3.jpg
+- carg1.jpg
+- carg2.jpg
+- carg3.jpg
 tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
