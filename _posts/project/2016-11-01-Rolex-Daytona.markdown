@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "HONEY JAR"
 date:   2014-04-25 16:54:46
-author: Marcel Newman
+author: Paulo Madeira
 categories:
 - project
 img: portfolio_11.jpg
