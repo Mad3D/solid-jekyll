@@ -8,9 +8,9 @@ categories:
 img: portfolio_03.jpg
 thumb: thumb02.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- car_g1.jpg
+- car_g2.jpg
+- car_g3.jpg
 client: Wonder Corp.
 website: http://blacktie.co
 ---
