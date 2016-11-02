@@ -5,7 +5,7 @@ date:   2014-01-02 16:54:46
 author: Paulo Madeira
 categories:
 - project
-img: dragonfly.jpg
+img: dragonflyhd1.png
 thumb: thumb02.jpg
 carousel:
 - daytona1a.jpg
@@ -15,7 +15,7 @@ tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
 ---
-DRAGONFLY TEA
+DRAGONFLY TEA:
 For this project I was inspired to recreate in 3d some Tea Boxes. 
 The original design company that created the Tea package is zigguratbrands. 
 This is purely a personal project done in my down time. It was all done in 3d, modeled purely from a few reference photos found online.
