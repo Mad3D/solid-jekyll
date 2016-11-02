@@ -15,13 +15,11 @@ tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
 ---
-####YOUR PROJECT NAME
+DRAGONFLY TEA
 For this project I was inspired to recreate in 3d some Tea Boxes. 
 The original design company that created the Tea package is zigguratbrands. 
 This is purely a personal project done in my down time. It was all done in 3d, modeled purely from a few reference photos found online.
 This fan art only. No Copyright infringement intended.
-
-Originally I saw the tea cans and I wanted to try to make them in 3d.
  
 High res images:
 https://www.dropbox.com/s/46nhb7it9d8zoty/Master_camera1.png
