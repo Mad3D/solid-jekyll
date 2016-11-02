@@ -5,7 +5,7 @@ date:   2014-01-02 16:54:46
 author: Paulo Madeira
 categories:
 - project
-img: dragonflyhd1.png
+img: dragonflyhd1.jpg
 thumb: thumb02.jpg
 carousel:
 - daytona1a.jpg
