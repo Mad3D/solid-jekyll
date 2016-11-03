@@ -1,0 +1,24 @@
+---
+layout: project
+title:  “AMBER DROP HONEY”
+date:   2014-04-25 16:54:46
+author: Paulo Madeira
+categories:
+- project
+img: portfolio_11.jpg
+thumb: thumb02.jpg
+carousel:
+- amber-drop-honey1.jpg
+- amber-drop-honey2.jpg
+- amber-drop-honey3.jpg
+- amber-drop-honey4.jpg
+- amber-drop-honey5.jpg
+tagged: Flat, UI, Development
+client: Wonder Corp.
+website: http://blacktie.co
+---
+####YOUR PROJECT NAME
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+
+####Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
