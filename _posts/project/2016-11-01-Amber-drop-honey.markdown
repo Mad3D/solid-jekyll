@@ -8,11 +8,11 @@ categories:
 img: portfolio_11.jpg
 thumb: thumb02.jpg
 carousel:
-- amber-drop-honey1.jpg
-- amber-drop-honey2.jpg
-- amber-drop-honey3.jpg
-- amber-drop-honey4.jpg
-- amber-drop-honey5.jpg
+- amberdrophoney1.jpg
+- amberdrophoney2.jpg
+- amberdrophoney3.jpg
+- amberdrophoney4.jpg
+- amberdrophoney5.jpg
 tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
