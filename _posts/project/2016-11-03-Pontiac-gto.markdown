@@ -8,7 +8,8 @@ categories:
 img: pontiacgto.jpg
 thumb: thumb02.jpg
 carousel:
-- pontiacgto.gif
+- pontiacgto1.jpg
+- pontiacgto2.jpg
 tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
