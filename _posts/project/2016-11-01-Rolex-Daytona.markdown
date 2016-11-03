@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "HONEY JAR"
+title:  "AMBER DROP HONEY"
 date:   2014-04-25 16:54:46
 author: Paulo Madeira
 categories:
@@ -11,6 +11,8 @@ carousel:
 - single11A.jpg
 - single11B.jpg
 - single11C.jpg
+- single11D.jpg
+- single11E.jpg
 tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
